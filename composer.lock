@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "12709ef47e69594fcde22153da14444e",
+    "content-hash": "f9d08dd528f8a09327db6554e0dfb946",
     "packages": [
         {
             "name": "composer/ca-bundle",
@@ -1696,7 +1696,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://downloads.wordpress.org/plugin/amazon-s3-and-cloudfront.0.9.12.zip",
-                "reference": null,
+                "reference": "tags/0.9.12",
                 "shasum": null
             },
             "require": {
@@ -1716,7 +1716,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://downloads.wordpress.org/plugin/amazon-web-services.0.3.7.zip",
-                "reference": null,
+                "reference": "tags/0.3.7",
                 "shasum": null
             },
             "require": {
@@ -1736,7 +1736,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://downloads.wordpress.org/plugin/sendgrid-email-delivery-simplified.zip",
-                "reference": null,
+                "reference": "trunk",
                 "shasum": null
             },
             "require": {
@@ -1744,6 +1744,26 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/sendgrid-email-delivery-simplified/"
+        },
+        {
+            "name": "wpackagist-theme/transcend",
+            "version": "1.1.2",
+            "source": {
+                "type": "svn",
+                "url": "https://themes.svn.wordpress.org/transcend/",
+                "reference": "1.1.2"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/theme/transcend.1.1.2.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-theme",
+            "homepage": "https://wordpress.org/themes/transcend/"
         },
         {
             "name": "wpackagist-theme/twentyfifteen",
@@ -1756,7 +1776,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://downloads.wordpress.org/theme/twentyfifteen.1.7.zip",
-                "reference": null,
+                "reference": "1.7",
                 "shasum": null
             },
             "require": {
