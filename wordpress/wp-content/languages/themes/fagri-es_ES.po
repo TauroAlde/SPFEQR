@@ -1,0 +1,57 @@
+# Translation of Themes - Fagri in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Fagri package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-05-24 12:47:30+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Fagri\n"
+
+#. Theme Name of the plugin/theme
+msgid "Fagri"
+msgstr "Fagri"
+
+#: inc/customizer/customizer.php:41 inc/customizer/customizer.php:59
+msgid "Background Image"
+msgstr "Imagen de fondo"
+
+#. #-#-#-#-#  fagri.pot (Fagri 1.0.6)  #-#-#-#-#
+#. Description of the plugin/theme
+#: functions.php:306
+msgid "Fagri is a responsive WordPress theme, built to fit all kinds of businesses. Its multipurpose design is great for small businesses, startups, corporate businesses, freelancers, portfolios, WooCommerce, creative agencies, or niche websites (medical, restaurants, sports, fashion). Fagri was created on top of Now UI Kit and displays an elegant one-page layout, complemented by the smooth parallax effect. The theme comes with a clean look, but it also provides subtle hover animations. Moreover, Fagri offers Sendinblue newsletter integration, a flexible interface via Live Customizer, a widgetized footer, full compatibility with Elementor and Beaver Builder, a full-width featured slider, and even more functionality based on the latest WordPress trends. Last but not least, the theme is lightweight and SEO-friendly."
+msgstr "Fagri es un tema adaptable de WordPress, creado para adaptarse a todo tipo de empresas. Es un gran diseño multipropósito para pequeños negocios, startups, negocios corporativos, autónomos, porfolios, WooCommerce, agencias creativas, sitios nicho (medicina, restaurantes, deportes, moda). Fagri ha sido creado con Now UI Kit y muestra diseños de una página elegantes, complementado con el elegante efecto parallax. El tema viene con un diseño limpio, pero también provee de sutiles animaciones al pasar el cursor. Además, Fagri ofrece integración con Sendinblue newsletter, una interfaz flexible de personalización en vivo, pie de página con widgets, compatibilidad completa con Elementor y Beaver Builder, un carrusel destacado de ancho completo, y mucho más basado en las últimas tendencias en WordPress. Por último, y no menos importante, el tema es muy ligero y preparado para SEO."
+
+#. translators: s - theme name
+#: functions.php:302
+msgid "Welcome to %s! - Version "
+msgstr "¡Bienvenido a %s! - Version "
+
+#. translators: %1$s is Author name, %2$s is author link
+#: functions.php:293 functions.php:297
+msgid "About Fagri"
+msgstr "Sobre Fagri"
+
+#. translators: %1$s is Author name wrapped, %2$s is Time
+#: functions.php:233
+msgid "%1$s %2$s"
+msgstr "%1$s %2$s"
+
+#: functions.php:187
+msgid "Read more"
+msgstr "Leer más"
+
+#. Author URI of the plugin/theme
+msgid "https://themeisle.com"
+msgstr "https://themeisle.com"
+
+#. Author of the plugin/theme
+msgid "ThemeIsle"
+msgstr "ThemeIsle"
+
+#. Theme URI of the plugin/theme
+msgid "https://themeisle.com/themes/fagri/"
+msgstr "https://themeisle.com/themes/fagri/"
